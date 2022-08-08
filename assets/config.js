@@ -15,7 +15,7 @@ let config = {
     },
     {
       "Title": "LinkedIn",
-      "URL": "https://www.linkedin.com/in/harindulk/",
+      "URL": "https://www.linkedin.com/in/juanrinconp/",
       "icon_classes": "fab fa-linkedin"
     },
     {
@@ -25,7 +25,7 @@ let config = {
     },
     {
       "Title": "Github",
-      "URL": "https://www.linkedin.com/in/juanrinconp/",
+      "URL": "https://github.com/juanrinconp",
       "icon_classes": "fab fa-github",
     },
   ]
