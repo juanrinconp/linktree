@@ -6,7 +6,7 @@ let config = {
     {
       "Title": "Website",
       "URL": "https://juanrinconp.github.io/website/",
-      "icon_classes": "fas fa-link",
+      "icon_classes": "fas fa-laptop	",
     },
     {
       "Title": "Photos",
