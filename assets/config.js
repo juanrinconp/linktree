@@ -11,12 +11,12 @@ let config = {
     {
       "Title": "Photos",
       "URL": "https://juanrinconp.github.io/album/",
-      "icon_classes": "fab fa-leanpub"
+      "icon_classes": "fas fa-camera"
     },
     {
-      "Title": "LinkedIn",
-      "URL": "https://www.linkedin.com/in/juanrinconp/",
-      "icon_classes": "fab fa-linkedin"
+      "Title": "Luca",
+      "URL": "https://www.instagram.com/luca.rincon/",
+      "icon_classes": "fas fa-dog"
     },
     {
       "Title": "Youtube",
@@ -27,6 +27,11 @@ let config = {
       "Title": "Github",
       "URL": "https://github.com/juanrinconp",
       "icon_classes": "fab fa-github",
+    },
+    {
+      "Title": "LinkedIn",
+      "URL": "https://www.linkedin.com/in/juanrinconp/",
+      "icon_classes": "fab fa-linkedin"
     },
   ]
 }
