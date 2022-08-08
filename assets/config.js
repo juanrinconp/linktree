@@ -1,7 +1,7 @@
 let config = {
   "Title": "Juan Esteban Rincón Poveda",
   "Name": "Juan Esteban Rincón Poveda",
-  "Description": "Links",
+  "Description": "",
   "links": [
     {
       "Title": "Website",
