@@ -1,3 +1,3 @@
 # links
 
-https://juanrinconp.github.io/links/
+https://juanrinconp.github.io/linktree/
